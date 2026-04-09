@@ -3,7 +3,7 @@ public class main {
     public static void main(String[] args) {
 
         /**
-         * Creacion del parkin
+         * Creacion del parkinaygcybucr
          */
         Parking parking = new Parking();
 
